@@ -43,7 +43,11 @@
     "url": ""
   },
   "keywords": [
-    "Angular2"
+    "Angular2",
+    "Typescript",
+    "Webpack",
+    "Boilerplate",
+    "Angular2 Starter kit"
   ],
   "author": "Aravind R",
   "license": "ISC",
